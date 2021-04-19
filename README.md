@@ -5,7 +5,7 @@ Compile using the Makefile.
 
 ./ftpServer
 
-./ftpClient ServerAdress
+./ftpClient ServerAddress
 
 Use 'get file' command to transfer a file from server to client
 
